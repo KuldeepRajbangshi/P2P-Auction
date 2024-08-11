@@ -1,0 +1,157 @@
+{"level":"info","message":"Received input, item: Artwork, price: 300","timestamp":"2024-08-11T14:14:02.613Z"}
+{"level":"info","message":"Server public key: 3b4cf2f0bfb170cea2f7c30c09d61399faa53a966d65df7874708b0bb792c184","timestamp":"2024-08-11T14:14:02.617Z"}
+{"level":"info","message":"Auction opened: {\"type\":\"Buffer\",\"data\":[123,34,110,111,110,99,101,34,58,110,117,108,108,125]}","timestamp":"2024-08-11T14:14:04.199Z"}
+{"level":"info","message":"Received input, item: Artwork, price: 300","timestamp":"2024-08-11T14:15:04.564Z"}
+{"level":"info","message":"Server public key: 7519e7f7adeb7f61dff62e7670429a671819f94fcf8a2d6325c69064ee3e05ab","timestamp":"2024-08-11T14:15:04.569Z"}
+{"level":"info","message":"Received input, item: Artwork, price: 300","timestamp":"2024-08-11T14:16:38.293Z"}
+{"level":"info","message":"Server public key: 81026c49ada11c4d4b109f70508b4f32b1bd5844248af337cbe6ea5054410660","timestamp":"2024-08-11T14:16:38.297Z"}
+{"level":"info","message":"Auction opened: {\"item\":\"Artwork\",\"price\":300}","timestamp":"2024-08-11T14:16:39.631Z"}
+{"level":"info","message":"Received input, item: Artwork, price: 300","timestamp":"2024-08-11T14:18:33.108Z"}
+{"level":"info","message":"Server public key: ca659f15958ef9fee126b94e80e57049faf3f39a16c388b142fb028e27f3ed7f","timestamp":"2024-08-11T14:18:33.111Z"}
+{"level":"info","message":"Auction opened: {\"item\":\"Artwork\",\"price\":300}","timestamp":"2024-08-11T14:18:34.848Z"}
+{"level":"info","message":"Received input, item: Artwork, price: 300","timestamp":"2024-08-11T14:22:49.110Z"}
+{"level":"info","message":"Server public key: 7efe27ca2abcb9c7bdbac9f947d7e84a00c249b1a3ec2703413ed325d86cd8ba","timestamp":"2024-08-11T14:22:49.114Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T14:31:19.130Z"}
+{"level":"info","message":"Server public key: 5ab462a3cd8a7503347548957ebc2206ed2081a3e08f56201b275953934ffde9","timestamp":"2024-08-11T14:31:19.132Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"434da9d1a60a3c4d555f3ca403605fef\"}","timestamp":"2024-08-11T14:31:19.691Z"}
+{"level":"info","message":"Received input, item: Copperglass, price: 10","timestamp":"2024-08-11T14:43:46.254Z"}
+{"level":"info","message":"Server public key: 32ff4ea458c8334a97d44231df01b20bdc5c6c88905902a8c04f3c730b31fec7","timestamp":"2024-08-11T14:43:46.258Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"3b3ee36daf4d47b58a0e386eb876eb62\"}","timestamp":"2024-08-11T14:43:47.166Z"}
+{"level":"error","message":"Failed to start CLI: ELOCKED: File is locked","timestamp":"2024-08-11T14:44:14.598Z"}
+{"level":"info","message":"Received input, item: Artwork, price: 20","timestamp":"2024-08-11T14:53:01.193Z"}
+{"level":"info","message":"Server public key: 94f8b61046f134b618a360bf0b814ef559d7b0642a12649e1c7d7f6878019cf2","timestamp":"2024-08-11T14:53:01.196Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"cc27c3eab8c5eb527087a0dcc289cac8\"}","timestamp":"2024-08-11T14:53:02.899Z"}
+{"level":"info","message":"Bid placed: {\"status\":\"success\"}","timestamp":"2024-08-11T14:53:20.783Z"}
+{"level":"info","message":"Auction details: {\"status\":\"success\",\"auction\":{\"item\":\"Artwork\",\"price\":20,\"status\":\"open\",\"bids\":[{\"amount\":350,\"bidder\":\"94f8b61046f134b618a360bf0b814ef559d7b0642a12649e1c7d7f6878019cf2\"}]}}","timestamp":"2024-08-11T14:53:39.592Z"}
+{"level":"error","message":"Failed to start CLI: ELOCKED: File is locked","timestamp":"2024-08-11T15:22:24.159Z"}
+{"level":"error","message":"Failed to start CLI: serverPublicKey is not defined","timestamp":"2024-08-11T15:43:12.491Z"}
+{"level":"info","message":"Received input, item: art, price: 2","timestamp":"2024-08-11T15:45:12.309Z"}
+{"level":"info","message":"Server public key: da3586feecfc4d95ea134cb065efe3a8ce0584ad22e6986b11744d321f84f9ce","timestamp":"2024-08-11T15:45:12.312Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"45720b60cb1c39b7a0d4a736a527285a\"}","timestamp":"2024-08-11T15:45:13.472Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:28:37.935Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:28:49.975Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:29:28.405Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:32:58.757Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:34:32.065Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:35:46.180Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:39:49.141Z"}
+{"level":"info","message":"RPC server started, public key: 1161a2678a81afe9c48fac9ebad1dd3e403096a5624465d6c15620ff8c269e16","timestamp":"2024-08-11T16:39:50.566Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:39:50.568Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:41:14.522Z"}
+{"level":"info","message":"RPC server started, public key: 25d2c9d2385735131bc326ae46cd054f8e265fe7ed0f92cbb4d851bdc9067bf2","timestamp":"2024-08-11T16:41:16.072Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:42:54.097Z"}
+{"level":"info","message":"RPC server started, public key: 3c58b21ca1d9e26dfedc927445969a741592b75b104639f7a45256fb6d4ed71b","timestamp":"2024-08-11T16:42:55.604Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:52:02.161Z"}
+{"level":"info","message":"RPC server started, public key: 248228f284e2e62ab23b118667c4d2fb597a76e70dbcb12d710d77c78362f192","timestamp":"2024-08-11T16:52:03.662Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:56:31.769Z"}
+{"level":"info","message":"RPC server started, public key: e5c431016f1fdbadaa73ad8344c3bf9b896bdd462021daf12b9f61c9db03cd44","timestamp":"2024-08-11T16:56:32.973Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T16:57:11.580Z"}
+{"level":"info","message":"RPC server started, public key: fb5edbcc626a740f06a31d3a09ed65bd1d6e25e55cb8eed88d5337ba8227987a","timestamp":"2024-08-11T16:57:13.590Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:03:26.805Z"}
+{"level":"info","message":"RPC server started, public key: 31f3eb231734744c26529c42e0875d6f7d6566b87461893ae4887374815da4b9","timestamp":"2024-08-11T17:03:28.551Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:10:08.933Z"}
+{"level":"info","message":"RPC server started, public key: 10bffc6ec009349e65fde12b4d88107b097d6f0c6798ebc1bf85cbeacc659b7e","timestamp":"2024-08-11T17:10:10.390Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:10:27.803Z"}
+{"level":"info","message":"Server public key: 10bffc6ec009349e65fde12b4d88107b097d6f0c6798ebc1bf85cbeacc659b7e","timestamp":"2024-08-11T17:10:27.804Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:10:29.033Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"fcc663a531bbb44d97db507715212359\"}","timestamp":"2024-08-11T17:10:29.040Z"}
+{"level":"info","message":"Received auction/close request","timestamp":"2024-08-11T17:10:48.798Z"}
+{"level":"info","message":"Auction closed: {\"status\":\"success\"}","timestamp":"2024-08-11T17:10:48.802Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:11:08.650Z"}
+{"level":"info","message":"RPC server started, public key: 4b20a81ae8580cc3d90ece47d10689db6e7f61f98326ffe50146c661d210925f","timestamp":"2024-08-11T17:11:10.220Z"}
+{"level":"info","message":"Received input, item: art, price: 300","timestamp":"2024-08-11T17:11:27.272Z"}
+{"level":"info","message":"Server public key: 4b20a81ae8580cc3d90ece47d10689db6e7f61f98326ffe50146c661d210925f","timestamp":"2024-08-11T17:11:27.273Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:11:27.953Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"9ea0b89c4a63569bff3ce7e305b18b7b\"}","timestamp":"2024-08-11T17:11:27.960Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:11:50.383Z"}
+{"level":"info","message":"RPC server started, public key: 8c6ab694e8bbfa9e905ee4eea2543603287f00e5d1e78f18bda66b0bb0eb8b22","timestamp":"2024-08-11T17:11:52.382Z"}
+{"level":"info","message":"Received auction/close request","timestamp":"2024-08-11T17:12:16.561Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:13:01.047Z"}
+{"level":"info","message":"RPC server started, public key: 7e7de3fae6241a84e1e4f5281b5e824a0feb3fd0d831af98554ace1e05dcfb62","timestamp":"2024-08-11T17:13:02.270Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:13:21.369Z"}
+{"level":"info","message":"RPC server started, public key: fcf676f51419f91703cb8bb56d46a94d2b3dad692d1903c113a963036c09b527","timestamp":"2024-08-11T17:13:23.015Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:13:34.542Z"}
+{"level":"info","message":"RPC server started, public key: c4e51f8b903639157b320230cdf14b8c545dedf773d1e56dfe896a6ac0fce93a","timestamp":"2024-08-11T17:13:36.383Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:20:47.120Z"}
+{"level":"info","message":"RPC server started, public key: fa586b1c5e67002f045a264b9daae8828df4a3c9d610cffa28a5f01adec6ebf1","timestamp":"2024-08-11T17:20:48.418Z"}
+{"level":"info","message":"Received input, item: art, price: 300","timestamp":"2024-08-11T17:21:04.302Z"}
+{"level":"info","message":"Server public key: fa586b1c5e67002f045a264b9daae8828df4a3c9d610cffa28a5f01adec6ebf1","timestamp":"2024-08-11T17:21:04.304Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:21:05.815Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"9c7ce58c5cf1b92dd1e5d138ff1f9a0d\"}","timestamp":"2024-08-11T17:21:05.823Z"}
+{"level":"info","message":"Received input, item: art, price: 300","timestamp":"2024-08-11T17:21:38.067Z"}
+{"level":"info","message":"Server public key: c4e51f8b903639157b320230cdf14b8c545dedf773d1e56dfe896a6ac0fce93a","timestamp":"2024-08-11T17:21:38.069Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:21:39.655Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"07d126a4e62cc85972f765e2d75f8c19\"}","timestamp":"2024-08-11T17:21:39.663Z"}
+{"level":"info","message":"Received auction/bid request","timestamp":"2024-08-11T17:22:13.913Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:22:27.251Z"}
+{"level":"info","message":"RPC server started, public key: 0258c06feb60d62203896480b059117fc608dc15e6d7690e0bb687539a1d9c32","timestamp":"2024-08-11T17:22:28.842Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:22:42.621Z"}
+{"level":"info","message":"Server public key: 0258c06feb60d62203896480b059117fc608dc15e6d7690e0bb687539a1d9c32","timestamp":"2024-08-11T17:22:42.624Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:22:43.800Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"0e18e8e9836875a72dda2d075a040ed8\"}","timestamp":"2024-08-11T17:22:43.807Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:23:27.306Z"}
+{"level":"info","message":"RPC server started, public key: 6aeffe950b7e6e10f8d46ac7daa05169578ecdc0ecb0adc36dc0641facd1d92e","timestamp":"2024-08-11T17:23:28.690Z"}
+{"level":"info","message":"Received input, item: art, price: 34","timestamp":"2024-08-11T17:23:39.836Z"}
+{"level":"info","message":"Server public key: 6aeffe950b7e6e10f8d46ac7daa05169578ecdc0ecb0adc36dc0641facd1d92e","timestamp":"2024-08-11T17:23:39.838Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:23:41.231Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"b68e1d31b6340e631bb2deb3f73d8f36\"}","timestamp":"2024-08-11T17:23:41.238Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:24:14.842Z"}
+{"level":"info","message":"RPC server started, public key: b729b5629e87a690b47f085cb76b3a27f766697d578cd99d6cb8667ba86ee5d6","timestamp":"2024-08-11T17:24:16.309Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:24:27.449Z"}
+{"level":"info","message":"Server public key: b729b5629e87a690b47f085cb76b3a27f766697d578cd99d6cb8667ba86ee5d6","timestamp":"2024-08-11T17:24:27.451Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:24:28.197Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:25:03.480Z"}
+{"level":"info","message":"RPC server started, public key: 959f55e70d283e508eb853fd897bee985a6dc002b76299fd3d2defac64fb585f","timestamp":"2024-08-11T17:25:04.850Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:25:21.623Z"}
+{"level":"info","message":"Server public key: 959f55e70d283e508eb853fd897bee985a6dc002b76299fd3d2defac64fb585f","timestamp":"2024-08-11T17:25:21.625Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:25:22.900Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"66651ca08492cfe221c9acebee155e84\"}","timestamp":"2024-08-11T17:25:22.909Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:25:45.560Z"}
+{"level":"info","message":"RPC server started, public key: fd313b3a68994609f1293f6e69e80004d7a0b8cfa6a44078740b12db19e41fa7","timestamp":"2024-08-11T17:25:46.714Z"}
+{"level":"info","message":"Received input, item: a, price: 3","timestamp":"2024-08-11T17:25:57.829Z"}
+{"level":"info","message":"Server public key: fd313b3a68994609f1293f6e69e80004d7a0b8cfa6a44078740b12db19e41fa7","timestamp":"2024-08-11T17:25:57.830Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:25:58.993Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"b571461bf7251f12ae044a5d7701d396\"}","timestamp":"2024-08-11T17:25:59.000Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:29:39.512Z"}
+{"level":"info","message":"RPC server started, public key: b8b25564720f32ddc50159aac20eee605db210f1cbed4e8512acc469c2f2c939","timestamp":"2024-08-11T17:29:41.283Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:29:51.661Z"}
+{"level":"info","message":"Server public key: b8b25564720f32ddc50159aac20eee605db210f1cbed4e8512acc469c2f2c939","timestamp":"2024-08-11T17:29:51.662Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:29:52.629Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"0222113e740ded9d39f6cd40cfc32340\"}","timestamp":"2024-08-11T17:29:52.635Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:30:21.907Z"}
+{"level":"info","message":"RPC server started, public key: bff93619ed56dda4f7e5b255f1eefc19306a8f6fb479ec1cdcef7f659f0548e8","timestamp":"2024-08-11T17:30:23.286Z"}
+{"level":"info","message":"Received input, item: art, price: 34","timestamp":"2024-08-11T17:30:35.933Z"}
+{"level":"info","message":"Server public key: bff93619ed56dda4f7e5b255f1eefc19306a8f6fb479ec1cdcef7f659f0548e8","timestamp":"2024-08-11T17:30:35.934Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:30:36.698Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"d061a9bd6b3520c04faa21c6c3889dc1\"}","timestamp":"2024-08-11T17:30:36.705Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:35:53.429Z"}
+{"level":"info","message":"RPC server started, public key: 4bf89922375b5ba77462366ad69ee4063a0e263ce896e79a1bc60b23c7484d40","timestamp":"2024-08-11T17:35:54.900Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:39:29.417Z"}
+{"level":"info","message":"Server public key: K��\"7[[�tb6j֞�\u0006:\u000e&<��\u001b�\u000b#�HM@","timestamp":"2024-08-11T17:39:29.420Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:39:30.342Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"020aa17fd38c3663ea92cd925123db03\"}","timestamp":"2024-08-11T17:39:30.350Z"}
+{"level":"info","message":"Received auction/details request","timestamp":"2024-08-11T17:40:47.385Z"}
+{"level":"info","message":"Auction details: {\"status\":\"success\",\"auction\":{\"item\":\"art\",\"price\":3,\"status\":\"open\",\"bids\":[]}}","timestamp":"2024-08-11T17:40:47.391Z"}
+{"level":"info","message":"Received auction/bid request","timestamp":"2024-08-11T17:41:05.948Z"}
+{"level":"info","message":"Bid placed: {\"status\":\"success\"}","timestamp":"2024-08-11T17:41:05.950Z"}
+{"level":"info","message":"Received auction/bid request","timestamp":"2024-08-11T17:44:51.476Z"}
+{"level":"info","message":"Bid placed: {\"status\":\"success\"}","timestamp":"2024-08-11T17:44:51.479Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T17:46:00.367Z"}
+{"level":"info","message":"RPC server started, public key: eebd54a595c57fd1a83f05b01e927686920717c96c9ba27777c861d988c1a1b1","timestamp":"2024-08-11T17:46:02.127Z"}
+{"level":"info","message":"Received input, item: 1, price: NaN","timestamp":"2024-08-11T17:48:17.207Z"}
+{"level":"info","message":"Server public key: �T���Ѩ?\u0005�\u001e�v��\u0007\u0017�l��ww�aو���","timestamp":"2024-08-11T17:48:17.210Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:48:18.872Z"}
+{"level":"info","message":"Received input, item: art, price: 3","timestamp":"2024-08-11T17:49:21.054Z"}
+{"level":"info","message":"Server public key: �T���Ѩ?\u0005�\u001e�v��\u0007\u0017�l��ww�aو���","timestamp":"2024-08-11T17:49:21.057Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:49:22.605Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"829eacf0e2bcc3b54594c9d6432eccfc\"}","timestamp":"2024-08-11T17:49:22.613Z"}
+{"level":"info","message":"Received input, item: ae, price: 45","timestamp":"2024-08-11T17:49:32.054Z"}
+{"level":"info","message":"Server public key: �T���Ѩ?\u0005�\u001e�v��\u0007\u0017�l��ww�aو���","timestamp":"2024-08-11T17:49:32.055Z"}
+{"level":"info","message":"Received auction/open request","timestamp":"2024-08-11T17:49:32.936Z"}
+{"level":"info","message":"Auction opened: {\"status\":\"success\",\"auctionId\":\"ab2b4007340cf37492f745f6cfb92d6f\"}","timestamp":"2024-08-11T17:49:32.940Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T18:03:15.551Z"}
+{"level":"info","message":"RPC server started, public key: b7fa6e3d8368b9cb8fffc0dc6930b0760b907064e8afd8bb7e5f6a8526fa5351","timestamp":"2024-08-11T18:03:16.791Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T18:07:40.629Z"}
+{"level":"info","message":"RPC server started, public key: a4971919982a280d33d062806f27ba79466311ed274545c82a864bca49412321","timestamp":"2024-08-11T18:07:42.100Z"}
+{"level":"info","message":"Joined the swarm, topic:","timestamp":"2024-08-11T18:08:53.876Z"}
+{"level":"info","message":"RPC server started, public key: 77f16bb98c86e5f5b5f9ae54c63a4e90efdf1833209340d82c3adfb17ba59796","timestamp":"2024-08-11T18:08:54.790Z"}

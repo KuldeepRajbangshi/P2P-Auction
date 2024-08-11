@@ -1,0 +1,10 @@
+{"level":"error","message":"Failed to start CLI: ELOCKED: File is locked","timestamp":"2024-08-11T14:44:14.598Z"}
+{"level":"error","message":"Failed to start CLI: ELOCKED: File is locked","timestamp":"2024-08-11T15:22:24.159Z"}
+{"level":"error","message":"Failed to start CLI: serverPublicKey is not defined","timestamp":"2024-08-11T15:43:12.491Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:28:37.935Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:28:49.975Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:29:28.405Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:32:58.757Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:34:32.065Z"}
+{"level":"error","message":"Failed to start CLI: Cannot read properties of undefined (reading 'toString')","timestamp":"2024-08-11T16:35:46.180Z"}
+{"level":"error","message":"Failed to start CLI: key","timestamp":"2024-08-11T16:39:50.568Z"}
