@@ -24,6 +24,7 @@ The project is not completed, Partial code is there in the master branch which c
    cd <repository-name>
 
 ## Steps:
-- 1.npm i
-- 2. node src/actionService.js
-- 3.Go to a different terminal to open a client and do node src/cli.js
+- run npm i
+- run node src/actionService.js
+- open another terminal
+- do node src/cli.js
